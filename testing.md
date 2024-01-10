@@ -1,6 +1,6 @@
 ---
-Title: test title
-Tags: ["tag1", "test"]
+title: "Test Title"
+tags: ["tag1", "test"]
 ---
 
 # Header 1
