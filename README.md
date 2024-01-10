@@ -1,7 +1,14 @@
+---
+title: README PAGE
+layout: template
+filename: README.md
+---
+
 # markdown-jekyll
 
 
 - [Tutorial](https://www.youtube.com/watch?v=VDOyjwWPKs4&ab_channel=CameronMcKenzie)
+- [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 [Testing](testing.md)
