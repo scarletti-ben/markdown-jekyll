@@ -1,3 +1,8 @@
+---
+Title: test title
+Tags: ["tag1", "test"]
+---
+
 # Header 1
 
 ## Header 2
